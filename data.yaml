@@ -1,0 +1,4 @@
+train: C:\Users\melis\OneDrive\Masaüstü\THERMAL_GUN\YOLO_dataset\images\train
+val: C:\Users\melis\OneDrive\Masaüstü\THERMAL_GUN\YOLO_dataset\images\train  # validation boşver
+nc: 2
+names: ['Handgun', 'No_Handgun']
