@@ -1,0 +1,1 @@
+This project uses the "Thermal Image Dataset for Concealed Handgun Detection" available at [Mendeley Data](https://data.mendeley.com/datasets/b6rpgr6nrh/1), licensed under **CC BY-NC 3.0**. Commercial use is prohibited without prior permission from the dataset authors.
